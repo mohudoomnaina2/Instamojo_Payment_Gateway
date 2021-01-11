@@ -45,7 +45,7 @@
 		</form>
  
     
-    </div> <!-- /container -->
+    </div>
 		</div>
 
 
